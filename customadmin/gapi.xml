@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webtop>
+	<section id="admin" mergeType="merge">
+		<subsection id="general" mergeType="merge">
+			<menu id="settings" mergeType="merge">
+				<menuitem id="gapiSettings" sequence="100" label="Google API" typename="gapiSetting" relatedtype="gapiSetting" />
+			</menu>
+		</subsection>
+	</section>
+</webtop>
